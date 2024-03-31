@@ -13,8 +13,6 @@
 	  "skipLibCheck": true,
 	  "declaration": true
 	},
-	/* "compileOnSave": true,
-	"exclude": ["test"], */
 	"include": [
 	  "src"
 	]
