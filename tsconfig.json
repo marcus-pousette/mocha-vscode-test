@@ -1,0 +1,21 @@
+{
+	"compilerOptions": {
+	  "composite": true,
+	  "target": "ESNext",
+	  "module": "ESNext",
+	  "moduleResolution": "node",
+	  "noImplicitAny": true,
+	  "strictNullChecks": true,
+	  "preserveConstEnums": true,
+	  "sourceMap": true, 
+	  "rootDir": "src",
+	  "outDir": "dist",
+	  "skipLibCheck": true,
+	  "declaration": true
+	},
+	/* "compileOnSave": true,
+	"exclude": ["test"], */
+	"include": [
+	  "src"
+	]
+  }
